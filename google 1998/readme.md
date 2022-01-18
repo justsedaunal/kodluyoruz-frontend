@@ -9,11 +9,15 @@ Google 1996 yılında kuruldu ve ilk versiyonunu 1998 yılında yayınladı. 199
 
 Bu sayfada şu ana kadar öğrendiğiniz her şeyi kullanabilirsiniz. Bu sizin HTML becerilerinizi oldukça iyi bir şekilde geliştirmenizi sağlayacaktır.
 
-![google](https://user-images.githubusercontent.com/83344740/149942978-c8e8b0ee-a17a-49a9-998e-d73127fd09e6.jpg)
+![googlehomepage](https://user-images.githubusercontent.com/83344740/149943754-529f0790-cd53-4846-8fa6-7c290418e04e.png)
+
+
+
 
 Butonların çalışmaması hiç sorun değil. Sadece tasarımsal olarak bu görüntüye benzesin ve aşağıdaki linkler çalışıyor olsun yeterli.
 
-Tasarladığınız bölümler ile alakalı kodunuzda açıklama satırlarına yer veriniz.
+Tasarladığınız bölümler ile alakalı kodunuzda açıklama satırlarına yer veriniz.Aşağıdaki logoyu kullanabilirsiniz.
+![google](https://user-images.githubusercontent.com/83344740/149942978-c8e8b0ee-a17a-49a9-998e-d73127fd09e6.jpg)
 
 Sayfa ile alakalı detaylara sayfanın üzerine sağ tıklayıp "İncele/Inspect" diyerek ulaşabilirsiniz.
 
