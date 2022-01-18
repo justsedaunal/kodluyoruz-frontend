@@ -1,4 +1,4 @@
-###Patika.Dev Front End Eğitimi Google 1998 Tasarımı
+# Patika.Dev Front End Eğitimi Google 1998 Tasarımı
 
 
 Hepimiz her gün Google kullanıyoruz ve çok işimize yarıyor değil mi? Her gün Google'da milyonlarca arama yapılıyor ve hatta siz de bu sayfaya gelmek için Google'ı kullanmış olabilirsiniz. Peki Google'ın geçmişten günümüze nasıl geliştiğini hiç merak ettiniz mi?
