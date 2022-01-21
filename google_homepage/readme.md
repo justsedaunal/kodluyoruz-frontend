@@ -38,4 +38,6 @@ Tasarımı mümkün olduğunca benzetmeniz gerekmekte. Buttonların, arama kısm
 <p>Kod yazarken yorum satırları kullanmaya özen gösteriniz. ödevin indirilebilir içeriklerine <a href="https://drive.google.com/drive/folders/1Judez8Dqey-BHDjxZ1PnUwGhIMERNkbV?usp=sharing" rel="noopener noreferrer" target="_blank">buradan</a> ulaşabilirsiniz.</p>
 
 
+#En son yaptığım görseli aşağıda görebilirsiniz. 
+
 ![Google](https://user-images.githubusercontent.com/83344740/150599665-264598b7-2d73-489b-8a7e-e5479e3c8ac5.png)
