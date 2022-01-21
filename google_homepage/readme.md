@@ -1,4 +1,4 @@
-# Patika.dev Frontend Eğitimi Cs Ödevi
+# Patika.dev Frontend Eğitimi Css Ödevi
 
 Google Ana Sayfasını Tasarlamak
 Bir zamanlar basit ama gururlu bir Google Ana Sayfası vardı, hatırladınız mı? Yıllaar yıllar geçti ve o ana sayfa gelişti, serpildi ve bugünkü halini aldı. HTML'in son ödevinde Google'ın ilk tasarımı üzerinde çalışmıştık ve CSS bölümünde günümüzdeki halini tasarlayacağımızı söylemiştik. Evet, o gün bugündür arkadaşlar. Bu ödevde Google'ın bugünkü ana sayfasını tasarlayacağız.
@@ -38,4 +38,4 @@ Tasarımı mümkün olduğunca benzetmeniz gerekmekte. Buttonların, arama kısm
 <p>Kod yazarken yorum satırları kullanmaya özen gösteriniz. ödevin indirilebilir içeriklerine <a href="https://drive.google.com/drive/folders/1Judez8Dqey-BHDjxZ1PnUwGhIMERNkbV?usp=sharing" rel="noopener noreferrer" target="_blank">buradan</a> ulaşabilirsiniz.</p>
 
 
-![Alt Text](https://www.awesomescreenshot.com/image/20639726?key=f8ee749384d27f0f9b211701b53b1997)
+![Google](https://user-images.githubusercontent.com/83344740/150599665-264598b7-2d73-489b-8a7e-e5479e3c8ac5.png)
